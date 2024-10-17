@@ -17,7 +17,7 @@
 -git config --list
 
 ## Conecta el repo local al remoto
--git remote add origin https://github.com/diegoteis1222/webprueba.git
+-git remote add origin https://github.com/diegoteis1222/webprueba2.git
 
 ## Sube los cambios locales al repo
--git push -u origin main
+-git push -u origin master
